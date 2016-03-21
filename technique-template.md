@@ -24,7 +24,7 @@ You should be comfortable using a whiteboard and be prepared to tailor the initi
 > Response, Legal, Security, Services Level Agrements, Re-use, Capacity
 > Planning, Competitive Benefits, Developer Environments etc
 
-Write the long-list on a whiteboard, or on a set of post-it notes and draw a 9 block square and then as candidates are identified they are placed in one of the boxes; it's interactive and expect differences of opinion of the relevance and importance of the different elements.
+Write the long-list on a whiteboard, or on a set of post-it notes and draw a 9 block square and then as candidates are identified they are placed in one of the boxes; it is interactive and expect differences of opinion of the relevance and importance of the different elements.
 
 
 |Initial Table |  |  |
