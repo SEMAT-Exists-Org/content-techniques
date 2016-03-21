@@ -38,7 +38,7 @@ Team|1|5
 
 
 
-Initial Table |   |  
+Initial Table | oo  | oo 
 ---|---|---
 Self Service | Billing | Competitive Benefits 
 Metrics / KPIs  | Standards | Features and Functions
