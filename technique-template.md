@@ -27,11 +27,11 @@ You should be comfortable using a whiteboard and be prepared to tailor the initi
 Write the long-list on a whiteboard, or on a set of post-it notes and draw a 9 block square and then as candidates are identified they are placed in one of the boxes; it is interactive and expect differences of opinion of the relevance and importance of the different elements.
 
 
-|Initial Table |  |  |
-|--|--|--|
-|Self Service | Billing | Competitive Benefits |
-|Metrics / KPIs  | Standards | Features and Functions|
-|Lifecycle Management  | Market Research | Developer Environments|
+Initial Table |  |  
+--|--|--
+Self Service | Billing | Competitive Benefits 
+Metrics / KPIs  | Standards | Features and Functions
+Lifecycle Management  | Market Research | Developer Environments
 
 Once the top-level selections have been identified, then the next step is to expand these further, into more specific items, and how they need to address by the organisation you are talking to; they might start to be formed around actual technologies or work packages that be sized and costed. 
 
