@@ -26,6 +26,8 @@ You should be comfortable using a whiteboard and be prepared to tailor the initi
 
 Write the long-list on a whiteboard, or on a set of post-it notes and draw a 9 block square and then as candidates are identified they are placed in one of the boxes; it is interactive and expect differences of opinion of the relevance and importance of the different elements.
 
+Alpha | State | Total
+--|--|--
 Opportunity|1|6
 Stakeholders|1|6
 Requirements|1|6
@@ -36,7 +38,7 @@ Team|1|5
 
 
 
-Initial Table |  |  
+Initial Table | oo  | oo 
 --|--|--
 Self Service | Billing | Competitive Benefits 
 Metrics / KPIs  | Standards | Features and Functions
