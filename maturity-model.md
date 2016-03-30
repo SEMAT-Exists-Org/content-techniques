@@ -11,6 +11,9 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ![CC BY SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
 ----------
+##Summary
+Maturity models can be used to assess an organisations current technology, process and organisation against both industry standards as well as current and future expectations. They exist for Open Source, Data Centre operation,  DevOps and Cloud maturity, amongst others. 
+
 
 ##Description
 ###Introduction

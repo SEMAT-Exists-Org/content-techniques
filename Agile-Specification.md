@@ -11,6 +11,8 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ![CC BY SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
 ----------
+##Summary
+A universal technique for gathering requirements that is the main way consulting projects scope, plan and organise project delivery based on a clear set of defined requirements
 
 ##Description
 The TECHNIQUE :  Agile Specification is a universal technique used for gathering requirements for consulting projects. It can be used as a standalone technique to fulfil the ACTIVITY : Requirements Gathering or in concert with other technology-specific specification techniques. For further information on requirements gathering and specification techniques, refer to the ACTIVITY : Requirements Gathering
