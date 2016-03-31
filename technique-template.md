@@ -11,6 +11,8 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ![CC BY SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
 ----------
+##Summary
+Means to select the 9 main themes for a project from a longer initial list and drill down into the main requirements
 
 ## Description
 The Nine Block Model is a technique that can be used to determine the main priorities for a future software system, architecture or IT organisation. It does this using an interactive approach where a group of Stakeholders select the 9 most important non-functional requirements from a long list of options.  Once the 9 have been selected, they become focus areas that can be used to determine a set of key activities for the forthcoming project and to potentially assess what resources will be required. Its a high-level approach and not as rigorous or detailed as other techniques like Agile User Stories.
